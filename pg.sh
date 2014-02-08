@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#read pg.sh.md for more details
 start()
 {
         echo -n "Starting PostgreSQL server"
